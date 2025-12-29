@@ -1,3 +1,5 @@
+world.gif
+
 ### Hi, i'm André.
 
 I am a cybersecurity professional focused on **Offensive Security**, with a hands-on, methodology-driven approach to understanding how real-world attacks are executed against systems, networks, and applications.
