@@ -1,4 +1,4 @@
-world.gif
+![World Animation](https://raw.githubusercontent.com/andreprs9/andreprs9/main/world.gif)
 
 ### Hi, i'm André.
 
